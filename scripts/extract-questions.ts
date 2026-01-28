@@ -10,12 +10,11 @@
 
 import fs from "fs";
 import path from "path";
-import * as pdfParse from "pdf-parse";
 import Anthropic from "@anthropic-ai/sdk";
 import dotenv from "dotenv";
 
-// pdf-parse doesn't have a proper default export
-const pdf = (pdfParse as unknown as { default: typeof pdfParse }).default || pdfParse;
+// eslint-disable-next-line @typescript-eslint/no-require-imports
+const pdf = require("pdf-parse");
 
 dotenv.config();
 

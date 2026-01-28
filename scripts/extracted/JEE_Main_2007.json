@@ -1,0 +1,1269 @@
+{
+  "filename": "JEE_Main_2007.pdf",
+  "examYear": 2007,
+  "examSession": "",
+  "examType": "MAIN",
+  "questions": [
+    {
+      "questionNumber": 1,
+      "subject": "PHYSICS",
+      "questionText": "In the experiment to determine the speed of sound using a resonance column,\n(A) prongs of the tuning fork are kept in a vertical plane\n(B) prongs of the tuning fork are kept in a horizontal plane\n(C) in one of the two resonances observed, the length of the resonating air column is close to the wavelength of sound in air\n(D) in one of the two resonances observed, the length of the resonating air column is close to half of the wavelength of sound in air.",
+      "options": [
+        {
+          "id": "A",
+          "text": "prongs of the tuning fork are kept in a vertical plane"
+        },
+        {
+          "id": "B",
+          "text": "prongs of the tuning fork are kept in a horizontal plane"
+        },
+        {
+          "id": "C",
+          "text": "in one of the two resonances observed, the length of the resonating air column is close to the wavelength of sound in air"
+        },
+        {
+          "id": "D",
+          "text": "in one of the two resonances observed, the length of the resonating air column is close to half of the wavelength of sound in air"
+        }
+      ],
+      "correctAnswer": "A",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Waves",
+      "topic": "Sound Waves",
+      "concept": "Resonance Column",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "CONCEPTUAL"
+      ]
+    },
+    {
+      "questionNumber": 2,
+      "subject": "PHYSICS",
+      "questionText": "A student performs an experiment to determine the Young's modulus of a wire, exactly 2m long, by Searle's method. In a particular reading, the student measures the extension in the length of the wire to be 0.8 mm with an uncertainty of ± 0.05 mm at a load of exactly 1.0 kg. The student also measures the diameter of the wire to be 0.4 mm with an uncertainty of ± 0.01 mm. Take g = 9.8 m/s² (exact). The Young's modulus obtained from the reading is\n(A) (2.0 ± 0.3) × 10¹¹ N/m²\n(B) (2.0 ± 0.2) × 10¹¹ N/m²\n(C) (2.0 ± 0.1) × 10¹¹ N/m²\n(D) (2.0 ± 0.05) × 10¹¹ N/m²",
+      "options": [
+        {
+          "id": "A",
+          "text": "(2.0 ± 0.3) × 10¹¹ N/m²"
+        },
+        {
+          "id": "B",
+          "text": "(2.0 ± 0.2) × 10¹¹ N/m²"
+        },
+        {
+          "id": "C",
+          "text": "(2.0 ± 0.1) × 10¹¹ N/m²"
+        },
+        {
+          "id": "D",
+          "text": "(2.0 ± 0.05) × 10¹¹ N/m²"
+        }
+      ],
+      "correctAnswer": "B",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Properties of Matter",
+      "topic": "Elasticity",
+      "concept": "Young's Modulus",
+      "difficulty": "HARD",
+      "skills": [
+        "NUMERICAL",
+        "APPLICATION"
+      ]
+    },
+    {
+      "questionNumber": 3,
+      "subject": "PHYSICS",
+      "questionText": "A particle moves in the X-Y plane under the influence of a force such that its linear momentum is p⃗(t) = A[cos(kt)î - sin(kt)ĵ], where A and k are constants. The angle between the force and the momentum is\n(A) 0°\n(B) 30°\n(C) 45°\n(D) 90°",
+      "options": [
+        {
+          "id": "A",
+          "text": "0°"
+        },
+        {
+          "id": "B",
+          "text": "30°"
+        },
+        {
+          "id": "C",
+          "text": "45°"
+        },
+        {
+          "id": "D",
+          "text": "90°"
+        }
+      ],
+      "correctAnswer": "D",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Mechanics",
+      "topic": "Force and Motion",
+      "concept": "Force and Momentum",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "CONCEPTUAL",
+        "ANALYTICAL"
+      ]
+    },
+    {
+      "questionNumber": 4,
+      "subject": "PHYSICS",
+      "questionText": "A small object of uniform density rolls up a curved surface with an initial velocity v. It reaches up to a maximum height of 3v²/4g with respect to the initial position. The object is\n(A) ring\n(B) solid sphere\n(C) hollow sphere\n(D) disc",
+      "options": [
+        {
+          "id": "A",
+          "text": "ring"
+        },
+        {
+          "id": "B",
+          "text": "solid sphere"
+        },
+        {
+          "id": "C",
+          "text": "hollow sphere"
+        },
+        {
+          "id": "D",
+          "text": "disc"
+        }
+      ],
+      "correctAnswer": "D",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Mechanics",
+      "topic": "Rotational Motion",
+      "concept": "Rolling Motion",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "CONCEPTUAL",
+        "ANALYTICAL"
+      ]
+    },
+    {
+      "questionNumber": 5,
+      "subject": "PHYSICS",
+      "questionText": "Water is filled up to a height h in a beaker of radius R as shown in the figure. The density of water is ρ, the surface tension of water is T and the atmospheric pressure is P₀. Consider a vertical section ABCD of the water column through a diameter of the beaker. The force on water on one side of this section by water on the other side of this section has magnitude\n(A) |2P₀Rh + πR²ρgh - 2RT|\n(B) |2P₀Rh + Rρgh² - 2RT|\n(C) |P₀πR² + Rρgh² - 2RT|\n(D) |P₀πR² + Rρgh² + 2RT|",
+      "options": [
+        {
+          "id": "A",
+          "text": "|2P₀Rh + πR²ρgh - 2RT|"
+        },
+        {
+          "id": "B",
+          "text": "|2P₀Rh + Rρgh² - 2RT|"
+        },
+        {
+          "id": "C",
+          "text": "|P₀πR² + Rρgh² - 2RT|"
+        },
+        {
+          "id": "D",
+          "text": "|P₀πR² + Rρgh² + 2RT|"
+        }
+      ],
+      "correctAnswer": "B",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Fluid Mechanics",
+      "topic": "Hydrostatics",
+      "concept": "Pressure in Fluids",
+      "difficulty": "HARD",
+      "skills": [
+        "ANALYTICAL",
+        "APPLICATION"
+      ]
+    },
+    {
+      "questionNumber": 6,
+      "subject": "PHYSICS",
+      "questionText": "A spherical portion has been removed from a solid sphere having a charge distributed uniformly in its volume in the figure. The electric field inside the emptied space is\n(A) zero everywhere\n(B) non-zero and uniform\n(C) non-uniform\n(D) zero only at its center",
+      "options": [
+        {
+          "id": "A",
+          "text": "zero everywhere"
+        },
+        {
+          "id": "B",
+          "text": "non-zero and uniform"
+        },
+        {
+          "id": "C",
+          "text": "non-uniform"
+        },
+        {
+          "id": "D",
+          "text": "zero only at its center"
+        }
+      ],
+      "correctAnswer": "B",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Electrostatics",
+      "topic": "Electric Field",
+      "concept": "Superposition Principle",
+      "difficulty": "HARD",
+      "skills": [
+        "CONCEPTUAL",
+        "ANALYTICAL"
+      ]
+    },
+    {
+      "questionNumber": 7,
+      "subject": "PHYSICS",
+      "questionText": "Positive and negative point charges of equal magnitude are kept at (a/2, 0, 0) and (-a/2, 0, 0), respectively. The work done by the electric field when another positive point charge is moved from (-a, 0, 0) to (0, a, 0) is\n(A) positive\n(B) negative\n(C) zero\n(D) depends on the path connecting the initial and final positions",
+      "options": [
+        {
+          "id": "A",
+          "text": "positive"
+        },
+        {
+          "id": "B",
+          "text": "negative"
+        },
+        {
+          "id": "C",
+          "text": "zero"
+        },
+        {
+          "id": "D",
+          "text": "depends on the path connecting the initial and final positions"
+        }
+      ],
+      "correctAnswer": "C",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Electrostatics",
+      "topic": "Electric Potential",
+      "concept": "Work in Electric Field",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "CONCEPTUAL",
+        "ANALYTICAL"
+      ]
+    },
+    {
+      "questionNumber": 8,
+      "subject": "PHYSICS",
+      "questionText": "A magnetic field B⃗ = B₀ĵ exists in the region a < x < 2a and B⃗ = -B₀ĵ in the region 2a < x < 3a, where B₀ is a positive constant. A positive point charge moving with a velocity v⃗ = v₀î, where v₀ is a positive constant, enters the magnetic field at x = a. The trajectory of the charge in this region can be like,",
+      "options": [
+        {
+          "id": "A",
+          "text": "Option A (curved path)"
+        },
+        {
+          "id": "B",
+          "text": "Option B (curved path)"
+        },
+        {
+          "id": "C",
+          "text": "Option C (curved path)"
+        },
+        {
+          "id": "D",
+          "text": "Option D (curved path)"
+        }
+      ],
+      "correctAnswer": "A",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Magnetism",
+      "topic": "Magnetic Force",
+      "concept": "Motion of Charged Particle",
+      "difficulty": "HARD",
+      "skills": [
+        "ANALYTICAL",
+        "GRAPHICAL"
+      ]
+    },
+    {
+      "questionNumber": 9,
+      "subject": "PHYSICS",
+      "questionText": "Electrons with de-Broglie wavelength λ fall on the target in an X-ray tube. The cut-off wavelength of the emitted X-rays is\n(A) λ₀ = 2mc²h/λ²\n(B) λ₀ = 2h/mcλ\n(C) λ₀ = 2λ²h/m²c³\n(D) λ₀ = λ",
+      "options": [
+        {
+          "id": "A",
+          "text": "λ₀ = 2mc²h/λ²"
+        },
+        {
+          "id": "B",
+          "text": "λ₀ = 2h/mcλ"
+        },
+        {
+          "id": "C",
+          "text": "λ₀ = 2λ²h/m²c³"
+        },
+        {
+          "id": "D",
+          "text": "λ₀ = λ"
+        }
+      ],
+      "correctAnswer": "A",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Modern Physics",
+      "topic": "X-rays",
+      "concept": "X-ray Production",
+      "difficulty": "HARD",
+      "skills": [
+        "CONCEPTUAL",
+        "ANALYTICAL"
+      ]
+    },
+    {
+      "questionNumber": 10,
+      "subject": "PHYSICS",
+      "questionText": "STATEMENT-1: If there is no external torque on a body about its center of mass, then the velocity of the center of mass remains constant.\nbecause\nSTATEMENT-2: The linear momentum of an isolated system remains constant.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Statement-1 is True, Statement-2 is True; Statement-2 is a correct explanation for Statement-1"
+        },
+        {
+          "id": "B",
+          "text": "Statement-1 is True, Statement-2 is True; Statement-2 is NOT a correct explanation for Statement-1"
+        },
+        {
+          "id": "C",
+          "text": "Statement-1 is True, Statement-2 is False"
+        },
+        {
+          "id": "D",
+          "text": "Statement-1 is False, Statement-2 is True"
+        }
+      ],
+      "correctAnswer": "D",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Mechanics",
+      "topic": "Center of Mass",
+      "concept": "Torque and Linear Momentum",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "CONCEPTUAL"
+      ]
+    },
+    {
+      "questionNumber": 11,
+      "subject": "PHYSICS",
+      "questionText": "STATEMENT-1: A cloth covers a table. Some dishes are kept on it. The cloth can be pulled out without dislodging the dishes from the table.\nbecause\nSTATEMENT-2: For every action there is an equal and opposite reaction",
+      "options": [
+        {
+          "id": "A",
+          "text": "Statement-1 is True, Statement-2 is True; Statement-2 is a correct explanation for Statement-1"
+        },
+        {
+          "id": "B",
+          "text": "Statement-1 is True, Statement-2 is True; Statement-2 is NOT a correct explanation for Statement-1"
+        },
+        {
+          "id": "C",
+          "text": "Statement-1 is True, Statement-2 is False"
+        },
+        {
+          "id": "D",
+          "text": "Statement-1 is False, Statement-2 is True"
+        }
+      ],
+      "correctAnswer": "B",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Mechanics",
+      "topic": "Newton's Laws",
+      "concept": "Inertia and Newton's Third Law",
+      "difficulty": "EASY",
+      "skills": [
+        "CONCEPTUAL"
+      ]
+    },
+    {
+      "questionNumber": 12,
+      "subject": "PHYSICS",
+      "questionText": "STATEMENT-1: A vertical iron rod has a coil of wire wound over it at the bottom end. An alternating current flows in the coil. The rod goes through a conducting ring as shown in the figure. The ring can float at a certain height above the coil.\nbecause\nSTATEMENT-2: In the above situation, a current is induced in the ring which interacts with the horizontal component of the magnetic field to produce an average force in the upward direction.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Statement-1 is True, Statement-2 is True; Statement-2 is a correct explanation for Statement-1"
+        },
+        {
+          "id": "B",
+          "text": "Statement-1 is True, Statement-2 is True; Statement-2 is NOT a correct explanation for Statement-1"
+        },
+        {
+          "id": "C",
+          "text": "Statement-1 is True, Statement-2 is False"
+        },
+        {
+          "id": "D",
+          "text": "Statement-1 is False, statement-2 is True"
+        }
+      ],
+      "correctAnswer": "A",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Electromagnetic Induction",
+      "topic": "Lenz's Law",
+      "concept": "Magnetic Levitation",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "CONCEPTUAL",
+        "APPLICATION"
+      ]
+    },
+    {
+      "questionNumber": 13,
+      "subject": "PHYSICS",
+      "questionText": "STATEMENT-1: The total translational kinetic energy of all the molecules of a given mass of an ideal gas is 1.5 times the product of its pressure and its volume.\nbecause\nSTATEMENT-2: The molecules of a gas collide with each other and the velocities of the molecules change due to the collision.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Statement-1 is True, Statement-2 is True; Statement-2 is correct explanation for Statement-1"
+        },
+        {
+          "id": "B",
+          "text": "Statement-1 is True, Statement-2 is True; Statement-2 is NOT a correct explanation for Statement-1"
+        },
+        {
+          "id": "C",
+          "text": "Statement-1 is True, Statement-2 is False"
+        },
+        {
+          "id": "D",
+          "text": "Statement-1 is False, Statement-2 is True"
+        }
+      ],
+      "correctAnswer": "B",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Kinetic Theory",
+      "topic": "Ideal Gas",
+      "concept": "Kinetic Energy of Gas Molecules",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "CONCEPTUAL"
+      ]
+    },
+    {
+      "questionNumber": 14,
+      "subject": "PHYSICS",
+      "questionText": "Two trains A and B are moving with speeds 20 m/s and 30 m/s respectively in the same direction on the same straight track, with B ahead of A. The engines are at the front ends. The engine of train A blows a long whistle. Assume that the sound of the whistle is composed of components varying in frequency from f₁ = 800 Hz to f₂ = 1120 Hz. The spread in the frequency (highest frequency – lowest frequency) is thus 320 Hz. The speed of sound in still air is 340 m/s. The speed of sound of the whistle is\n(A) 340 m/s for passengers in A and 310 m/s for passengers in B\n(B) 360 m/s for passengers in A and 310 m/s for passengers in B\n(C) 310 m/s for passengers in A and 360 m/s for passengers in B\n(D) 340 m/s for passengers in both the trains",
+      "options": [
+        {
+          "id": "A",
+          "text": "340 m/s for passengers in A and 310 m/s for passengers in B"
+        },
+        {
+          "id": "B",
+          "text": "360 m/s for passengers in A and 310 m/s for passengers in B"
+        },
+        {
+          "id": "C",
+          "text": "310 m/s for passengers in A and 360 m/s for passengers in B"
+        },
+        {
+          "id": "D",
+          "text": "340 m/s for passengers in both the trains"
+        }
+      ],
+      "correctAnswer": "A",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Waves",
+      "topic": "Doppler Effect",
+      "concept": "Speed of Sound in Moving Medium",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "CONCEPTUAL",
+        "ANALYTICAL"
+      ]
+    },
+    {
+      "questionNumber": 15,
+      "subject": "PHYSICS",
+      "questionText": "The distribution of the sound intensity of the whistle as observed by the passengers in train A is best represented by",
+      "options": [
+        {
+          "id": "A",
+          "text": "Same as original distribution"
+        },
+        {
+          "id": "B",
+          "text": "Shifted distribution"
+        },
+        {
+          "id": "C",
+          "text": "Compressed distribution"
+        },
+        {
+          "id": "D",
+          "text": "Expanded distribution"
+        }
+      ],
+      "correctAnswer": "A",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Waves",
+      "topic": "Doppler Effect",
+      "concept": "Intensity Distribution",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "CONCEPTUAL",
+        "GRAPHICAL"
+      ]
+    },
+    {
+      "questionNumber": 16,
+      "subject": "PHYSICS",
+      "questionText": "The spread of frequency as observed by the passengers in train B is\n(A) 310 Hz\n(B) 330 Hz\n(C) 350 Hz\n(D) 290 Hz",
+      "options": [
+        {
+          "id": "A",
+          "text": "310 Hz"
+        },
+        {
+          "id": "B",
+          "text": "330 Hz"
+        },
+        {
+          "id": "C",
+          "text": "350 Hz"
+        },
+        {
+          "id": "D",
+          "text": "290 Hz"
+        }
+      ],
+      "correctAnswer": "A",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Waves",
+      "topic": "Doppler Effect",
+      "concept": "Frequency Spread",
+      "difficulty": "HARD",
+      "skills": [
+        "NUMERICAL",
+        "ANALYTICAL"
+      ]
+    },
+    {
+      "questionNumber": 17,
+      "subject": "PHYSICS",
+      "questionText": "The figure shows a surface XY separating two transparent media, medium-1 and medium-2. The lines ab and cd represent wavefronts of a light wave traveling in medium-1 and incident on XY. The lines ef and gh represent wavefronts of the light wave in medium-2 after refraction. Light travels as\n(A) parallel beam in each medium\n(B) convergent beam in each medium\n(C) divergent beam in each medium\n(D) divergent beam in one medium and convergent beam in the other medium",
+      "options": [
+        {
+          "id": "A",
+          "text": "parallel beam in each medium"
+        },
+        {
+          "id": "B",
+          "text": "convergent beam in each medium"
+        },
+        {
+          "id": "C",
+          "text": "divergent beam in each medium"
+        },
+        {
+          "id": "D",
+          "text": "divergent beam in one medium and convergent beam in the other medium"
+        }
+      ],
+      "correctAnswer": "A",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Optics",
+      "topic": "Wave Optics",
+      "concept": "Wavefronts",
+      "difficulty": "EASY",
+      "skills": [
+        "CONCEPTUAL"
+      ]
+    },
+    {
+      "questionNumber": 18,
+      "subject": "PHYSICS",
+      "questionText": "The phases of the light wave at c, d, e and f are φc, φd, φe and φf respectively. It is given that φc ≠ φf.\n(A) φc cannot be equal to φd\n(B) φd can be equal to φe\n(C) (φd - φf) is equal to (φc - φe)\n(D) (φd - φc) is not equal to (φf - φe)",
+      "options": [
+        {
+          "id": "A",
+          "text": "φc cannot be equal to φd"
+        },
+        {
+          "id": "B",
+          "text": "φd can be equal to φe"
+        },
+        {
+          "id": "C",
+          "text": "(φd - φf) is equal to (φc - φe)"
+        },
+        {
+          "id": "D",
+          "text": "(φd - φc) is not equal to (φf - φe)"
+        }
+      ],
+      "correctAnswer": "C",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Optics",
+      "topic": "Wave Optics",
+      "concept": "Phase of Wavefronts",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "CONCEPTUAL",
+        "ANALYTICAL"
+      ]
+    },
+    {
+      "questionNumber": 19,
+      "subject": "PHYSICS",
+      "questionText": "Speed of light is\n(A) the same in medium-1 and medium-2\n(B) larger in medium-1 than in medium-2\n(C) larger in medium-2 than in medium-1\n(D) different at b and d",
+      "options": [
+        {
+          "id": "A",
+          "text": "the same in medium-1 and medium-2"
+        },
+        {
+          "id": "B",
+          "text": "larger in medium-1 than in medium-2"
+        },
+        {
+          "id": "C",
+          "text": "larger in medium-2 than in medium-1"
+        },
+        {
+          "id": "D",
+          "text": "different at b and d"
+        }
+      ],
+      "correctAnswer": "B",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Optics",
+      "topic": "Refraction",
+      "concept": "Speed of Light in Different Media",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "CONCEPTUAL"
+      ]
+    },
+    {
+      "questionNumber": 20,
+      "subject": "PHYSICS",
+      "questionText": "Match the situations in Column I with the characteristics in Column II:\nColumn I describes some situations in which a small object moves. Column II describes some characteristics of these motions.\n(A) The object moves on the x-axis under a conservative force in such a way that its \"speed\" and \"position\" satisfy v = √(c₁² - c₂x²), where c₁ and c₂ are positive constants.\n(B) The object moves on the x-axis in such a way that its velocity and its displacement from the origin satisfy v = -kx, where k is a positive constant.\n(C) The object is attached to one end of a mass-less spring of a given spring constant. The other end of the spring is attached to the ceiling of an elevator. Initially everything is at rest. The elevator starts going upwards with a constant acceleration a. The motion of the object is observed from the elevator during the period it maintains this acceleration.\n(D) The object is projected from the earth's surface vertically upwards with a speed √(2GMₑ/Rₑ), where Mₑ is the mass of the earth and Rₑ is the radius of the earth. Neglect forces from objects other than the earth.\nColumn II:\n(p) The object executes a simple harmonic motion.\n(q) The object does not change its direction.\n(r) The kinetic energy of the object keeps on decreasing.\n(s) The object can change its direction only once.",
+      "options": [],
+      "correctAnswer": "UNKNOWN",
+      "questionType": "MCQ_MULTIPLE",
+      "chapter": "Mechanics",
+      "topic": "Oscillations and Motion",
+      "concept": "Types of Motion",
+      "difficulty": "HARD",
+      "skills": [
+        "CONCEPTUAL",
+        "ANALYTICAL"
+      ]
+    },
+    {
+      "questionNumber": 1,
+      "subject": "CHEMISTRY",
+      "questionText": "Among the following metal carbonyls, the C-O bond order is lowest in\n(A) [Mn(CO)₆]⁺\n(B) [Fe(CO)₅]\n(C) [Cr(CO)₆]\n(D) [V(CO)₆]⁻",
+      "options": [
+        {
+          "id": "A",
+          "text": "[Mn(CO)₆]⁺"
+        },
+        {
+          "id": "B",
+          "text": "[Fe(CO)₅]"
+        },
+        {
+          "id": "C",
+          "text": "[Cr(CO)₆]"
+        },
+        {
+          "id": "D",
+          "text": "[V(CO)₆]⁻"
+        }
+      ],
+      "correctAnswer": "D",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Coordination Compounds",
+      "topic": "Metal Carbonyls",
+      "concept": "Back bonding in carbonyls",
+      "difficulty": "HARD",
+      "skills": [
+        "CONCEPTUAL",
+        "ANALYTICAL"
+      ]
+    },
+    {
+      "questionNumber": 2,
+      "subject": "CHEMISTRY",
+      "questionText": "Cyclohexene on ozonolysis followed by reaction with zinc dust and water gives compound E. Compound E on further treatment with aqueous KOH yields compound F. Compound F is\n(A) CHO-CHO\n(B) CHO with benzene ring\n(C) COOH-COOH\n(D) Dicarboxylic acid with benzene ring",
+      "options": [
+        {
+          "id": "A",
+          "text": "CHO-CHO"
+        },
+        {
+          "id": "B",
+          "text": "CHO with benzene ring"
+        },
+        {
+          "id": "C",
+          "text": "COOH-COOH"
+        },
+        {
+          "id": "D",
+          "text": "Dicarboxylic acid with benzene ring"
+        }
+      ],
+      "correctAnswer": "A",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Organic Chemistry",
+      "topic": "Ozonolysis",
+      "concept": "Ozonolysis of alkenes",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "APPLICATION",
+        "ANALYTICAL"
+      ]
+    },
+    {
+      "questionNumber": 3,
+      "subject": "CHEMISTRY",
+      "questionText": "Consider a titration of potassium dichromate solution with acidified Mohr's salt solution using diphenylamine as indicator. The number of moles of Mohr's salt required per mole of dichromate is\n(A) 3\n(B) 4\n(C) 5\n(D) 6",
+      "options": [
+        {
+          "id": "A",
+          "text": "3"
+        },
+        {
+          "id": "B",
+          "text": "4"
+        },
+        {
+          "id": "C",
+          "text": "5"
+        },
+        {
+          "id": "D",
+          "text": "6"
+        }
+      ],
+      "correctAnswer": "D",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Redox Reactions",
+      "topic": "Volumetric Analysis",
+      "concept": "Redox titration",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "NUMERICAL",
+        "APPLICATION"
+      ]
+    },
+    {
+      "questionNumber": 4,
+      "subject": "CHEMISTRY",
+      "questionText": "Among the following, the least stable resonance structure is\n(A) Structure with adjacent positive charges\n(B) Structure with charge separation\n(C) Structure with complete octet\n(D) Structure with delocalized electrons",
+      "options": [
+        {
+          "id": "A",
+          "text": "Structure with adjacent positive charges"
+        },
+        {
+          "id": "B",
+          "text": "Structure with charge separation"
+        },
+        {
+          "id": "C",
+          "text": "Structure with complete octet"
+        },
+        {
+          "id": "D",
+          "text": "Structure with delocalized electrons"
+        }
+      ],
+      "correctAnswer": "A",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Chemical Bonding",
+      "topic": "Resonance",
+      "concept": "Stability of resonance structures",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "CONCEPTUAL"
+      ]
+    },
+    {
+      "questionNumber": 5,
+      "subject": "CHEMISTRY",
+      "questionText": "A solution of a metal ion when treated with KI gives a red precipitate which dissolves in excess KI to give a colourless solution. Moreover, the solution of metal ion on treatment with a solution of cobalt(II) thiocyanate gives rise to a deep blue crystalline precipitate. The metal ion is\n(A) Pb²⁺\n(B) Hg²⁺\n(C) Cu²⁺\n(D) Co²⁺",
+      "options": [
+        {
+          "id": "A",
+          "text": "Pb²⁺"
+        },
+        {
+          "id": "B",
+          "text": "Hg²⁺"
+        },
+        {
+          "id": "C",
+          "text": "Cu²⁺"
+        },
+        {
+          "id": "D",
+          "text": "Co²⁺"
+        }
+      ],
+      "correctAnswer": "B",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Inorganic Chemistry",
+      "topic": "Qualitative Analysis",
+      "concept": "Detection of metal ions",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "APPLICATION",
+        "ANALYTICAL"
+      ]
+    },
+    {
+      "questionNumber": 6,
+      "subject": "CHEMISTRY",
+      "questionText": "For the process H₂O(l) (1 bar, 373 K) → H₂O(g) (1 bar, 373 K), the correct set of thermodynamic parameters is\n(A) ΔG = 0, ΔS = +ve\n(B) ΔG = 0, ΔS = -ve\n(C) ΔG = +ve, ΔS = 0\n(D) ΔG = -ve, ΔS = +ve",
+      "options": [
+        {
+          "id": "A",
+          "text": "ΔG = 0, ΔS = +ve"
+        },
+        {
+          "id": "B",
+          "text": "ΔG = 0, ΔS = -ve"
+        },
+        {
+          "id": "C",
+          "text": "ΔG = +ve, ΔS = 0"
+        },
+        {
+          "id": "D",
+          "text": "ΔG = -ve, ΔS = +ve"
+        }
+      ],
+      "correctAnswer": "A",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Thermodynamics",
+      "topic": "Phase Transitions",
+      "concept": "Equilibrium conditions",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "CONCEPTUAL"
+      ]
+    },
+    {
+      "questionNumber": 7,
+      "subject": "CHEMISTRY",
+      "questionText": "The number of stereoisomers obtained by bromination of trans-2-butene is\n(A) 1\n(B) 2\n(C) 3\n(D) 4",
+      "options": [
+        {
+          "id": "A",
+          "text": "1"
+        },
+        {
+          "id": "B",
+          "text": "2"
+        },
+        {
+          "id": "C",
+          "text": "3"
+        },
+        {
+          "id": "D",
+          "text": "4"
+        }
+      ],
+      "correctAnswer": "A",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Organic Chemistry",
+      "topic": "Stereochemistry",
+      "concept": "Addition reactions",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "CONCEPTUAL",
+        "ANALYTICAL"
+      ]
+    },
+    {
+      "questionNumber": 8,
+      "subject": "CHEMISTRY",
+      "questionText": "Consider a reaction aG + bH → Products. When concentration of both the reactants G and H is doubled, the rate increases by eight times. However, when concentration of G is doubled keeping the concentration of H fixed, the rate is doubled. The overall order of the reaction is\n(A) 0\n(B) 1\n(C) 2\n(D) 3",
+      "options": [
+        {
+          "id": "A",
+          "text": "0"
+        },
+        {
+          "id": "B",
+          "text": "1"
+        },
+        {
+          "id": "C",
+          "text": "2"
+        },
+        {
+          "id": "D",
+          "text": "3"
+        }
+      ],
+      "correctAnswer": "D",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Chemical Kinetics",
+      "topic": "Rate Laws",
+      "concept": "Order of reaction",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "NUMERICAL",
+        "ANALYTICAL"
+      ]
+    },
+    {
+      "questionNumber": 9,
+      "subject": "CHEMISTRY",
+      "questionText": "A positron is emitted from ²³Na₁₁. The ratio of the atomic mass and atomic number of the resulting nuclide is\n(A) 22/10\n(B) 22/11\n(C) 23/10\n(D) 23/12",
+      "options": [
+        {
+          "id": "A",
+          "text": "22/10"
+        },
+        {
+          "id": "B",
+          "text": "22/11"
+        },
+        {
+          "id": "C",
+          "text": "23/10"
+        },
+        {
+          "id": "D",
+          "text": "23/12"
+        }
+      ],
+      "correctAnswer": "C",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Nuclear Chemistry",
+      "topic": "Radioactive Decay",
+      "concept": "Positron emission",
+      "difficulty": "EASY",
+      "skills": [
+        "NUMERICAL"
+      ]
+    },
+    {
+      "questionNumber": 10,
+      "subject": "CHEMISTRY",
+      "questionText": "STATEMENT-1: Glucose gives a reddish-brown precipitate with Fehling's solution.\nbecause\nSTATEMENT-2: Reaction of glucose with Fehling's solution gives CuO and gluconic acid.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Statement-1 is True, Statement-2 is True; Statement-2 is a correct explanation for Statement-1"
+        },
+        {
+          "id": "B",
+          "text": "Statement-1 is True, Statement-2 is True; Statement-2 is NOT a correct explanation for Statement-1"
+        },
+        {
+          "id": "C",
+          "text": "Statement-1 is True, Statement-2 is False"
+        },
+        {
+          "id": "D",
+          "text": "Statement-1 is False, Statement-2 is True"
+        }
+      ],
+      "correctAnswer": "C",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Organic Chemistry",
+      "topic": "Carbohydrates",
+      "concept": "Reducing sugars",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "CONCEPTUAL"
+      ]
+    },
+    {
+      "questionNumber": 1,
+      "subject": "MATHEMATICS",
+      "questionText": "d²y/dx² / (1 - (dy/dx)²)^(3/2) equals\n(A) -1/(dy/dx) · d/dy(dx/dy)\n(B) -d²x/dy² / (1 + (dx/dy)²)^(3/2)\n(C) -d²x/dy² / (1 - (dx/dy)²)^(3/2)\n(D) -(dx/dy)³ · d²x/dy²",
+      "options": [
+        {
+          "id": "A",
+          "text": "-1/(dy/dx) · d/dy(dx/dy)"
+        },
+        {
+          "id": "B",
+          "text": "-d²x/dy² / (1 + (dx/dy)²)^(3/2)"
+        },
+        {
+          "id": "C",
+          "text": "-d²x/dy² / (1 - (dx/dy)²)^(3/2)"
+        },
+        {
+          "id": "D",
+          "text": "-(dx/dy)³ · d²x/dy²"
+        }
+      ],
+      "correctAnswer": "D",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Calculus",
+      "topic": "Differentiation",
+      "concept": "Second derivative",
+      "difficulty": "HARD",
+      "skills": [
+        "ANALYTICAL",
+        "DERIVATION"
+      ]
+    },
+    {
+      "questionNumber": 2,
+      "subject": "MATHEMATICS",
+      "questionText": "If |z| = 1 and z ≠ ±1, then all the values of (z-1)/(z²-1) lie on\n(A) a line not passing through the origin\n(B) |z| = 1/2\n(C) the x-axis\n(D) the y-axis",
+      "options": [
+        {
+          "id": "A",
+          "text": "a line not passing through the origin"
+        },
+        {
+          "id": "B",
+          "text": "|z| = 1/2"
+        },
+        {
+          "id": "C",
+          "text": "the x-axis"
+        },
+        {
+          "id": "D",
+          "text": "the y-axis"
+        }
+      ],
+      "correctAnswer": "D",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Complex Numbers",
+      "topic": "Complex Number Properties",
+      "concept": "Locus of complex numbers",
+      "difficulty": "HARD",
+      "skills": [
+        "ANALYTICAL",
+        "CONCEPTUAL"
+      ]
+    },
+    {
+      "questionNumber": 3,
+      "subject": "MATHEMATICS",
+      "questionText": "Let a⃗, b⃗, c⃗ be unit vectors such that a⃗ + b⃗ + c⃗ = 0⃗. Which one of the following is correct?\n(A) a⃗ · b⃗ = b⃗ · c⃗ = c⃗ · a⃗ = 0\n(B) a⃗ · b⃗ = b⃗ · c⃗ = c⃗ · a⃗ ≠ 0\n(C) a⃗ · b⃗ = b⃗ · c⃗ = c⃗ · a⃗ ≠ 0\n(D) a⃗ · b⃗, b⃗ · c⃗, c⃗ · a⃗ are mutually perpendicular",
+      "options": [
+        {
+          "id": "A",
+          "text": "a⃗ · b⃗ = b⃗ · c⃗ = c⃗ · a⃗ = 0"
+        },
+        {
+          "id": "B",
+          "text": "a⃗ · b⃗ = b⃗ · c⃗ = c⃗ · a⃗ ≠ 0"
+        },
+        {
+          "id": "C",
+          "text": "a⃗ · b⃗ = b⃗ · c⃗ = c⃗ · a⃗ ≠ 0"
+        },
+        {
+          "id": "D",
+          "text": "a⃗ · b⃗, b⃗ · c⃗, c⃗ · a⃗ are mutually perpendicular"
+        }
+      ],
+      "correctAnswer": "B",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Vectors",
+      "topic": "Dot Product",
+      "concept": "Unit vectors",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "ANALYTICAL",
+        "CONCEPTUAL"
+      ]
+    },
+    {
+      "questionNumber": 4,
+      "subject": "MATHEMATICS",
+      "questionText": "Let O(0, 0), P(3, 4), Q(6, 0) be the vertices of the triangle OPQ. The point R inside the triangle OPQ is such that the triangles OPR, PQR, OQR are of equal area. The coordinates of R are\n(A) (4/3, 3)\n(B) (3, 2/3)\n(C) (3, 4/3)\n(D) (4/3, 3/2)",
+      "options": [
+        {
+          "id": "A",
+          "text": "(4/3, 3)"
+        },
+        {
+          "id": "B",
+          "text": "(3, 2/3)"
+        },
+        {
+          "id": "C",
+          "text": "(3, 4/3)"
+        },
+        {
+          "id": "D",
+          "text": "(4/3, 3/2)"
+        }
+      ],
+      "correctAnswer": "C",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Coordinate Geometry",
+      "topic": "Triangles",
+      "concept": "Centroid",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "NUMERICAL",
+        "ANALYTICAL"
+      ]
+    },
+    {
+      "questionNumber": 5,
+      "subject": "MATHEMATICS",
+      "questionText": "Let f(x) = x/(1+x)^(1/n) for n ≥ 2 and g(x) = f∘f∘...∘f (n times). Then ∫_{-2n}^{2n} g(x)dx equals\n(A) 2n(1+nx)^{1-1/n} / (1-1/n)\n(B) 2n(1+nx)^{1+1/n} / (1+1/n)\n(C) 2n(1+nx)^{1-1/n} / (1+1/n)\n(D) 2n(1+nx)^{1+1/n} / (1-1/n)",
+      "options": [
+        {
+          "id": "A",
+          "text": "2n(1+nx)^{1-1/n} / (1-1/n)"
+        },
+        {
+          "id": "B",
+          "text": "2n(1+nx)^{1+1/n} / (1+1/n)"
+        },
+        {
+          "id": "C",
+          "text": "2n(1+nx)^{1-1/n} / (1+1/n)"
+        },
+        {
+          "id": "D",
+          "text": "2n(1+nx)^{1+1/n} / (1-1/n)"
+        }
+      ],
+      "correctAnswer": "A",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Calculus",
+      "topic": "Integration",
+      "concept": "Function composition and integration",
+      "difficulty": "HARD",
+      "skills": [
+        "ANALYTICAL",
+        "NUMERICAL"
+      ]
+    },
+    {
+      "questionNumber": 6,
+      "subject": "MATHEMATICS",
+      "questionText": "Let E^c denote the complement of an event E. Let E, F, G be pairwise independent events with P(G) > 0 and P(E ∩ F ∩ G) = 0. Then P(E^c ∩ F^c | G) equals\n(A) P(E^c) + P(F^c)\n(B) P(E^c) - P(F^c)\n(C) P(E^c) - P(F)\n(D) P(E) - P(F^c)",
+      "options": [
+        {
+          "id": "A",
+          "text": "P(E^c) + P(F^c)"
+        },
+        {
+          "id": "B",
+          "text": "P(E^c) - P(F^c)"
+        },
+        {
+          "id": "C",
+          "text": "P(E^c) - P(F)"
+        },
+        {
+          "id": "D",
+          "text": "P(E) - P(F^c)"
+        }
+      ],
+      "correctAnswer": "C",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Probability",
+      "topic": "Conditional Probability",
+      "concept": "Independent events",
+      "difficulty": "HARD",
+      "skills": [
+        "ANALYTICAL",
+        "CONCEPTUAL"
+      ]
+    },
+    {
+      "questionNumber": 7,
+      "subject": "MATHEMATICS",
+      "questionText": "Letters of the word COCHIN are permuted and all the permutations are arranged in an alphabetical order as in an English dictionary. The number of words that appear before the word COCHIN is\n(A) 360\n(B) 192\n(C) 96\n(D) 48",
+      "options": [
+        {
+          "id": "A",
+          "text": "360"
+        },
+        {
+          "id": "B",
+          "text": "192"
+        },
+        {
+          "id": "C",
+          "text": "96"
+        },
+        {
+          "id": "D",
+          "text": "48"
+        }
+      ],
+      "correctAnswer": "C",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Permutations and Combinations",
+      "topic": "Permutations",
+      "concept": "Alphabetical ordering",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "NUMERICAL",
+        "ANALYTICAL"
+      ]
+    },
+    {
+      "questionNumber": 8,
+      "subject": "MATHEMATICS",
+      "questionText": "The differential equation y(y-1)dy/dx = y² determines a family of circles with\n(A) variable radii and a fixed centre at (0, 1)\n(B) variable radii and a fixed centre at (0, -1)\n(C) fixed radius 1 and variable centres along the x-axis\n(D) fixed radius 1 and variable centres along the y-axis",
+      "options": [
+        {
+          "id": "A",
+          "text": "variable radii and a fixed centre at (0, 1)"
+        },
+        {
+          "id": "B",
+          "text": "variable radii and a fixed centre at (0, -1)"
+        },
+        {
+          "id": "C",
+          "text": "fixed radius 1 and variable centres along the x-axis"
+        },
+        {
+          "id": "D",
+          "text": "fixed radius 1 and variable centres along the y-axis"
+        }
+      ],
+      "correctAnswer": "C",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Differential Equations",
+      "topic": "First Order Differential Equations",
+      "concept": "Solution of differential equations",
+      "difficulty": "HARD",
+      "skills": [
+        "ANALYTICAL",
+        "DERIVATION"
+      ]
+    },
+    {
+      "questionNumber": 9,
+      "subject": "MATHEMATICS",
+      "questionText": "Let ABCD be a quadrilateral with area 18, with side AB parallel to the side CD and AB = 2CD. Let AD be perpendicular to AB and CD. If a circle is drawn inside the quadrilateral ABCD touching all the sides, then its radius is\n(A) 3\n(B) 2\n(C) 3/2\n(D) 1",
+      "options": [
+        {
+          "id": "A",
+          "text": "3"
+        },
+        {
+          "id": "B",
+          "text": "2"
+        },
+        {
+          "id": "C",
+          "text": "3/2"
+        },
+        {
+          "id": "D",
+          "text": "1"
+        }
+      ],
+      "correctAnswer": "B",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Coordinate Geometry",
+      "topic": "Quadrilaterals",
+      "concept": "Incircle of quadrilateral",
+      "difficulty": "HARD",
+      "skills": [
+        "NUMERICAL",
+        "ANALYTICAL"
+      ]
+    }
+  ],
+  "extractedAt": "2026-01-28T11:07:39.509Z"
+}

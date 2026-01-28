@@ -1,0 +1,1160 @@
+{
+  "filename": "JEE_Main_2008.pdf",
+  "examYear": 2008,
+  "examSession": "",
+  "examType": "MAIN",
+  "questions": [
+    {
+      "questionNumber": 71,
+      "subject": "PHYSICS",
+      "questionText": "A body of mass m = 3.513 kg is moving along the x-axis with a speed of 5.00 ms^(-1). The magnitude of its momentum is recorded as",
+      "options": [
+        {
+          "id": "A",
+          "text": "17.565 kg ms^(-1)"
+        },
+        {
+          "id": "B",
+          "text": "17.56 kg ms^(-1)"
+        },
+        {
+          "id": "C",
+          "text": "17.57 kg ms^(-1)"
+        },
+        {
+          "id": "D",
+          "text": "17.6 kg ms^(-1)"
+        }
+      ],
+      "correctAnswer": "D",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Mechanics",
+      "topic": "Linear Momentum",
+      "concept": "Momentum calculation with significant figures",
+      "difficulty": "EASY",
+      "skills": [
+        "NUMERICAL",
+        "CONCEPTUAL"
+      ]
+    },
+    {
+      "questionNumber": 72,
+      "subject": "PHYSICS",
+      "questionText": "Consider a uniform square plate of side 'a' and mass 'm'. The moment of inertia of this plate about an axis perpendicular to its plane and passing through one of its corners is",
+      "options": [
+        {
+          "id": "A",
+          "text": "ma^2/12"
+        },
+        {
+          "id": "B",
+          "text": "7ma^2/12"
+        },
+        {
+          "id": "C",
+          "text": "2ma^2/3"
+        },
+        {
+          "id": "D",
+          "text": "5ma^2/6"
+        }
+      ],
+      "correctAnswer": "C",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Rotational Mechanics",
+      "topic": "Moment of Inertia",
+      "concept": "Parallel axis theorem",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "DERIVATION",
+        "CONCEPTUAL"
+      ]
+    },
+    {
+      "questionNumber": 73,
+      "subject": "PHYSICS",
+      "questionText": "The speed of sound in oxygen (O₂) at a certain temperature is 460 ms^(-1). The speed of sound in helium (He) at the same temperature will be (assume both gases to be ideal)",
+      "options": [
+        {
+          "id": "A",
+          "text": "500 ms^(-1)"
+        },
+        {
+          "id": "B",
+          "text": "650 ms^(-1)"
+        },
+        {
+          "id": "C",
+          "text": "330 ms^(-1)"
+        },
+        {
+          "id": "D",
+          "text": "460 ms^(-1)"
+        }
+      ],
+      "correctAnswer": "UNKNOWN",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Wave Motion",
+      "topic": "Sound Waves",
+      "concept": "Speed of sound in different gases",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "ANALYTICAL",
+        "APPLICATION"
+      ]
+    },
+    {
+      "questionNumber": 74,
+      "subject": "PHYSICS",
+      "questionText": "A thin spherical shell of radius R has charge Q spread uniformly over its surface. Which of the following graphs most closely represents the electric field E(r) produced by the shell in the range 0 ≤ r < ∞, where r is the distance from the centre of shell?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Graph (1)"
+        },
+        {
+          "id": "B",
+          "text": "Graph (2)"
+        },
+        {
+          "id": "C",
+          "text": "Graph (3)"
+        },
+        {
+          "id": "D",
+          "text": "Graph (4)"
+        }
+      ],
+      "correctAnswer": "D",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Electrostatics",
+      "topic": "Electric Field",
+      "concept": "Electric field of spherical shell",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "GRAPHICAL",
+        "CONCEPTUAL"
+      ]
+    },
+    {
+      "questionNumber": 75,
+      "subject": "PHYSICS",
+      "questionText": "Relative permittivity and permeability of a material are εᵣ and μᵣ, respectively. Which of the following values of these quantities are allowed for a diamagnetic material?",
+      "options": [
+        {
+          "id": "A",
+          "text": "εᵣ = 1.5, μᵣ = 0.5"
+        },
+        {
+          "id": "B",
+          "text": "εᵣ = 0.5, μᵣ = 0.5"
+        },
+        {
+          "id": "C",
+          "text": "εᵣ = 1.5, μᵣ = 1.5"
+        },
+        {
+          "id": "D",
+          "text": "εᵣ = 0.5, μᵣ = 1.5"
+        }
+      ],
+      "correctAnswer": "A",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Magnetism",
+      "topic": "Magnetic Properties",
+      "concept": "Diamagnetic materials",
+      "difficulty": "EASY",
+      "skills": [
+        "CONCEPTUAL"
+      ]
+    },
+    {
+      "questionNumber": 76,
+      "subject": "PHYSICS",
+      "questionText": "Suppose an electron is attracted towards the origin by a force k/r where 'k' is a constant and 'r' is the distance of the electron from the origin. By applying Bohr model to this system, the radius of the nth orbital of the electron is found to be 'rₙ' and the kinetic energy of the electron to be 'Tₙ'. Then which of the following is true?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Tₙ independent of n, rₙ ∝ n"
+        },
+        {
+          "id": "B",
+          "text": "Tₙ ∝ 1/n, rₙ ∝ n"
+        },
+        {
+          "id": "C",
+          "text": "Tₙ ∝ 1/n, rₙ ∝ n²"
+        },
+        {
+          "id": "D",
+          "text": "Tₙ ∝ 1/n, rₙ ∝ n²"
+        }
+      ],
+      "correctAnswer": "A",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Modern Physics",
+      "topic": "Bohr Model",
+      "concept": "Modified Bohr model",
+      "difficulty": "HARD",
+      "skills": [
+        "ANALYTICAL",
+        "DERIVATION"
+      ]
+    },
+    {
+      "questionNumber": 77,
+      "subject": "PHYSICS",
+      "questionText": "A block of mass 0.50 kg is moving with a speed of 2.00 ms^(-1) on a smooth surface. It strikes another mass of 1.00 kg and then they move together as a single body. The energy loss during the collision is",
+      "options": [
+        {
+          "id": "A",
+          "text": "1.00 J"
+        },
+        {
+          "id": "B",
+          "text": "0.67 J"
+        },
+        {
+          "id": "C",
+          "text": "0.34 J"
+        },
+        {
+          "id": "D",
+          "text": "0.16 J"
+        }
+      ],
+      "correctAnswer": "B",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Mechanics",
+      "topic": "Collisions",
+      "concept": "Inelastic collision energy loss",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "NUMERICAL",
+        "APPLICATION"
+      ]
+    },
+    {
+      "questionNumber": 78,
+      "subject": "PHYSICS",
+      "questionText": "A wave travelling along the x-axis is described by the equation y(x, t) = 0.005 cos(ax - bt). If the wavelength and the time period of the wave are 0.08 m and 2.0 s, respectively, then a and b in appropriate units are",
+      "options": [
+        {
+          "id": "A",
+          "text": "a = π/0.04, b = π/0.08"
+        },
+        {
+          "id": "B",
+          "text": "a = π/0.08, b = π/0.1"
+        },
+        {
+          "id": "C",
+          "text": "a = 12.50π, b = π/0.2"
+        },
+        {
+          "id": "D",
+          "text": "a = 25.00π, b = π"
+        }
+      ],
+      "correctAnswer": "D",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Wave Motion",
+      "topic": "Wave Equation",
+      "concept": "Wave parameters from equation",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "ANALYTICAL",
+        "NUMERICAL"
+      ]
+    },
+    {
+      "questionNumber": 79,
+      "subject": "PHYSICS",
+      "questionText": "A working transistor with its three legs marked P, Q and R is tested using a multimeter. No conduction is found between P and Q. By connecting the common (negative) terminal of the multimeter of R and the other (positive) terminal to P or Q, some resistance is seen on the multimeter. Which of the following is true for the transistor?",
+      "options": [
+        {
+          "id": "A",
+          "text": "It is a pnp transistor with R as collector"
+        },
+        {
+          "id": "B",
+          "text": "It is a pnp transistor with R as emitter"
+        },
+        {
+          "id": "C",
+          "text": "It is an npn transistor with R as collector"
+        },
+        {
+          "id": "D",
+          "text": "It is an npn transistor with R as base"
+        }
+      ],
+      "correctAnswer": "B",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Electronics",
+      "topic": "Transistors",
+      "concept": "Transistor identification",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "ANALYTICAL",
+        "APPLICATION"
+      ]
+    },
+    {
+      "questionNumber": 80,
+      "subject": "PHYSICS",
+      "questionText": "A jar is filled with two non-mixing liquids 1 and 2 having densities ρ₁ and ρ₂, respectively. A solid ball, made of a material of density ρ₃, is dropped in the jar. It comes to equilibrium in the position shown in the figure. Which of the following is true for ρ₁, ρ₂ and ρ₃?",
+      "options": [
+        {
+          "id": "A",
+          "text": "ρ₁ > ρ₃ > ρ₂"
+        },
+        {
+          "id": "B",
+          "text": "ρ₁ < ρ₂ < ρ₃"
+        },
+        {
+          "id": "C",
+          "text": "ρ₁ < ρ₃ < ρ₂"
+        },
+        {
+          "id": "D",
+          "text": "ρ₃ < ρ₁ < ρ₂"
+        }
+      ],
+      "correctAnswer": "C",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Fluid Mechanics",
+      "topic": "Buoyancy",
+      "concept": "Floating equilibrium in two liquids",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "ANALYTICAL",
+        "APPLICATION"
+      ]
+    },
+    {
+      "questionNumber": 81,
+      "subject": "PHYSICS",
+      "questionText": "An athlete in the olympic games covers distance of 100 m in 10s. His kinetic energy can be estimated to be in range",
+      "options": [
+        {
+          "id": "A",
+          "text": "2 × 10⁵ J — 3 × 10⁵J"
+        },
+        {
+          "id": "B",
+          "text": "20,000 J — 50,000 J"
+        },
+        {
+          "id": "C",
+          "text": "2,000 J — 5,000 J"
+        },
+        {
+          "id": "D",
+          "text": "200 J — 500 J"
+        }
+      ],
+      "correctAnswer": "C",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Mechanics",
+      "topic": "Kinetic Energy",
+      "concept": "Energy estimation",
+      "difficulty": "EASY",
+      "skills": [
+        "NUMERICAL",
+        "APPLICATION"
+      ]
+    },
+    {
+      "questionNumber": 82,
+      "subject": "PHYSICS",
+      "questionText": "A parallel plate capacitor with air between the plates has a capacitance of 9 pF. The separation between its plates is 'd'. The space between the plates is now filled with two dielectrics. One of the dielectrics has dielectric constant k₁ = 3 and thickness d/3 while the other one has dielectric constant k₂ = 6 and thickness 2d/3. Capacitance of the capacitor is now",
+      "options": [
+        {
+          "id": "A",
+          "text": "45 pF"
+        },
+        {
+          "id": "B",
+          "text": "40.5 pF"
+        },
+        {
+          "id": "C",
+          "text": "20.25 pF"
+        },
+        {
+          "id": "D",
+          "text": "1.8 pF"
+        }
+      ],
+      "correctAnswer": "B",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Electrostatics",
+      "topic": "Capacitors",
+      "concept": "Capacitor with multiple dielectrics",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "NUMERICAL",
+        "APPLICATION"
+      ]
+    },
+    {
+      "questionNumber": 83,
+      "subject": "PHYSICS",
+      "questionText": "The dimension of magnetic field in M, L, T and C (Coulomb) is given as",
+      "options": [
+        {
+          "id": "A",
+          "text": "MT²C⁻²"
+        },
+        {
+          "id": "B",
+          "text": "MT⁻¹C⁻¹"
+        },
+        {
+          "id": "C",
+          "text": "MT⁻²C⁻¹"
+        },
+        {
+          "id": "D",
+          "text": "MLT⁻¹C⁻¹"
+        }
+      ],
+      "correctAnswer": "B",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Magnetism",
+      "topic": "Dimensional Analysis",
+      "concept": "Dimensions of magnetic field",
+      "difficulty": "EASY",
+      "skills": [
+        "CONCEPTUAL"
+      ]
+    },
+    {
+      "questionNumber": 84,
+      "subject": "PHYSICS",
+      "questionText": "A body is at rest at x = 0. At t=0, it starts moving in the positive x-direction with a constant acceleration. At the same instant another body passes through x = 0 moving in the positive x–direction with a constant speed. The position of the first body is given by x₁(t) after time 't' and that of the second body by x₂(t) after the same time interval. Which of the following graphs correctly describes (x₁-x₂) as a function of time 't'?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Graph (1)"
+        },
+        {
+          "id": "B",
+          "text": "Graph (2)"
+        },
+        {
+          "id": "C",
+          "text": "Graph (3)"
+        },
+        {
+          "id": "D",
+          "text": "Graph (4)"
+        }
+      ],
+      "correctAnswer": "A",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Mechanics",
+      "topic": "Kinematics",
+      "concept": "Motion graphs",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "GRAPHICAL",
+        "ANALYTICAL"
+      ]
+    },
+    {
+      "questionNumber": 85,
+      "subject": "PHYSICS",
+      "questionText": "In the circuit below, A and B represent two inputs and C represents the output. The circuit represents",
+      "options": [
+        {
+          "id": "A",
+          "text": "AND gate"
+        },
+        {
+          "id": "B",
+          "text": "NAND gate"
+        },
+        {
+          "id": "C",
+          "text": "OR gate"
+        },
+        {
+          "id": "D",
+          "text": "NOR gate"
+        }
+      ],
+      "correctAnswer": "C",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Electronics",
+      "topic": "Logic Gates",
+      "concept": "Gate identification",
+      "difficulty": "EASY",
+      "skills": [
+        "CONCEPTUAL"
+      ]
+    },
+    {
+      "questionNumber": 86,
+      "subject": "PHYSICS",
+      "questionText": "While measuring the speed of sound by performing a resonance column experiment, a student gets the first resonance condition at a column length of 18 cm during winter. Repeating the same experiment during summer, she measures the column length to be x cm for the second resonance. Then",
+      "options": [
+        {
+          "id": "A",
+          "text": "x > 54"
+        },
+        {
+          "id": "B",
+          "text": "54 > x > 36"
+        },
+        {
+          "id": "C",
+          "text": "36 > x > 18"
+        },
+        {
+          "id": "D",
+          "text": "18 > x"
+        }
+      ],
+      "correctAnswer": "A",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Wave Motion",
+      "topic": "Sound Waves",
+      "concept": "Resonance column experiment",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "ANALYTICAL",
+        "APPLICATION"
+      ]
+    },
+    {
+      "questionNumber": 87,
+      "subject": "PHYSICS",
+      "questionText": "Shown in the figure below is a meter-bridge set up with null deflection in the galvanometer. The value of the unknown resistor R is",
+      "options": [
+        {
+          "id": "A",
+          "text": "220 Ω"
+        },
+        {
+          "id": "B",
+          "text": "110 Ω"
+        },
+        {
+          "id": "C",
+          "text": "55 Ω"
+        },
+        {
+          "id": "D",
+          "text": "13.75 Ω"
+        }
+      ],
+      "correctAnswer": "A",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Current Electricity",
+      "topic": "Wheatstone Bridge",
+      "concept": "Meter bridge calculation",
+      "difficulty": "EASY",
+      "skills": [
+        "NUMERICAL",
+        "APPLICATION"
+      ]
+    },
+    {
+      "questionNumber": 88,
+      "subject": "PHYSICS",
+      "questionText": "A spherical solid ball of volume V is made of a material of density ρ₁. It is falling through a liquid of density ρ₂ (ρ₂ < ρ₁). Assume that the liquid applies a viscous force on the ball that is proportional to the square of its speed v, i.e., F_viscous = -kv² (k > 0). The terminal speed of the ball is",
+      "options": [
+        {
+          "id": "A",
+          "text": "√(gVρ₁/k)"
+        },
+        {
+          "id": "B",
+          "text": "√(gVρ₁/k)"
+        },
+        {
+          "id": "C",
+          "text": "√(gV(ρ₁-ρ₂)/k)"
+        },
+        {
+          "id": "D",
+          "text": "√(gV(ρ₁-ρ₂)/k)"
+        }
+      ],
+      "correctAnswer": "D",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Fluid Mechanics",
+      "topic": "Terminal Velocity",
+      "concept": "Terminal velocity with quadratic drag",
+      "difficulty": "HARD",
+      "skills": [
+        "ANALYTICAL",
+        "DERIVATION"
+      ]
+    },
+    {
+      "questionNumber": 89,
+      "subject": "PHYSICS",
+      "questionText": "A thin rod of length 'L' is lying along the x-axis with its ends at x = 0 and x = L. Its linear density (mass/length) varies with x as k(x/L)ⁿ, where n can be zero or any positive number. If the position x_CM of the centre of mass of the rod is plotted against 'n', which of the following graphs best approximates the dependence of x_CM on n?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Graph (1)"
+        },
+        {
+          "id": "B",
+          "text": "Graph (2)"
+        },
+        {
+          "id": "C",
+          "text": "Graph (3)"
+        },
+        {
+          "id": "D",
+          "text": "Graph (4)"
+        }
+      ],
+      "correctAnswer": "D",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Mechanics",
+      "topic": "Centre of Mass",
+      "concept": "Centre of mass of variable density rod",
+      "difficulty": "HARD",
+      "skills": [
+        "ANALYTICAL",
+        "GRAPHICAL"
+      ]
+    },
+    {
+      "questionNumber": 90,
+      "subject": "PHYSICS",
+      "questionText": "A planet in a distant solar system is 10 times more massive than the earth and its radius is 10 times smaller. Given that the escape velocity from the earth is 11 km s⁻¹, the escape velocity from the surface of the planet would be",
+      "options": [
+        {
+          "id": "A",
+          "text": "11 km s⁻¹"
+        },
+        {
+          "id": "B",
+          "text": "110 km s⁻¹"
+        },
+        {
+          "id": "C",
+          "text": "0.11 km s⁻¹"
+        },
+        {
+          "id": "D",
+          "text": "1.1 km s⁻¹"
+        }
+      ],
+      "correctAnswer": "B",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Gravitation",
+      "topic": "Escape Velocity",
+      "concept": "Escape velocity comparison",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "ANALYTICAL",
+        "APPLICATION"
+      ]
+    },
+    {
+      "questionNumber": 91,
+      "subject": "PHYSICS",
+      "questionText": "An insulated container has two chambers separated by an insulating partition. One of the chambers has volume V₁ and contains ideal gas at pressure P₁ and temperature T₁. The other chamber has volume V₂ and contains ideal gas at pressure P₂ and temperature T₂. If the partition is removed without doing any work on the gas, the final equilibrium temperature of the gas in the container will be",
+      "options": [
+        {
+          "id": "A",
+          "text": "(P₁V₁T₂ + P₂V₂T₁)/(P₁V₁ + P₂V₂)"
+        },
+        {
+          "id": "B",
+          "text": "(P₁V₁T₁ + P₂V₂T₂)/(P₁V₁ + P₂V₂)"
+        },
+        {
+          "id": "C",
+          "text": "(T₁P₁V₁ + T₂P₂V₂)/(P₁V₁ + P₂V₂)"
+        },
+        {
+          "id": "D",
+          "text": "(T₁P₁V₁ + T₂P₂V₂)/(P₁V₁ + P₂V₂)"
+        }
+      ],
+      "correctAnswer": "D",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Thermodynamics",
+      "topic": "Gas Mixing",
+      "concept": "Adiabatic mixing of gases",
+      "difficulty": "HARD",
+      "skills": [
+        "ANALYTICAL",
+        "DERIVATION"
+      ]
+    },
+    {
+      "questionNumber": 92,
+      "subject": "PHYSICS",
+      "questionText": "Two full turns of the circular scale of a screw gauge cover a distance of 1 mm on its main scale. The total number of divisions on the circular scale is 50. Further, it is found that the screw gauge has a zero error of –0.03 mm. While measuring the diameter of a thin wire, a student notes the main scale reading of 3 mm and the number of circular scale divisions in line with the main scale as 35. The diameter of the wire is",
+      "options": [
+        {
+          "id": "A",
+          "text": "3.73 mm"
+        },
+        {
+          "id": "B",
+          "text": "3.67 mm"
+        },
+        {
+          "id": "C",
+          "text": "3.38 mm"
+        },
+        {
+          "id": "D",
+          "text": "3.32 mm"
+        }
+      ],
+      "correctAnswer": "C",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Measurements",
+      "topic": "Screw Gauge",
+      "concept": "Screw gauge measurement with zero error",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "NUMERICAL",
+        "APPLICATION"
+      ]
+    },
+    {
+      "questionNumber": 93,
+      "subject": "PHYSICS",
+      "questionText": "A horizontal overhead powerline is at a height of 4 m from the ground and carries a current of 100 A from east to west. The magnetic field directly below it on the ground is (μ₀ = 4π × 10⁻⁷ T m A⁻¹)",
+      "options": [
+        {
+          "id": "A",
+          "text": "5 × 10⁻⁶ T northward"
+        },
+        {
+          "id": "B",
+          "text": "5 × 10⁻⁶ T southward"
+        },
+        {
+          "id": "C",
+          "text": "2.5 × 10⁻⁷ T northward"
+        },
+        {
+          "id": "D",
+          "text": "2.5 × 10⁻⁷ T southward"
+        }
+      ],
+      "correctAnswer": "B",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Magnetism",
+      "topic": "Magnetic Field",
+      "concept": "Magnetic field due to current carrying wire",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "NUMERICAL",
+        "APPLICATION"
+      ]
+    },
+    {
+      "questionNumber": 94,
+      "subject": "PHYSICS",
+      "questionText": "An experiment is performed to find the refractive index of glass using a travelling microscope. In this experiment distances are measured by",
+      "options": [
+        {
+          "id": "A",
+          "text": "a standard laboratory scale"
+        },
+        {
+          "id": "B",
+          "text": "a meter scale provided on the microscope"
+        },
+        {
+          "id": "C",
+          "text": "a screw gauge provided on the microscope"
+        },
+        {
+          "id": "D",
+          "text": "a vernier scale provided on the microscope"
+        }
+      ],
+      "correctAnswer": "D",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Optics",
+      "topic": "Refractive Index",
+      "concept": "Travelling microscope measurement",
+      "difficulty": "EASY",
+      "skills": [
+        "CONCEPTUAL"
+      ]
+    },
+    {
+      "questionNumber": 95,
+      "subject": "PHYSICS",
+      "questionText": "A 5V battery with internal resistance 2Ω and a 2V battery with internal resistance 1Ω are connected to a 10Ω resistor as shown in the figure. The current in the 10Ω resistor is",
+      "options": [
+        {
+          "id": "A",
+          "text": "0.03 A P₁ to P₂"
+        },
+        {
+          "id": "B",
+          "text": "0.03 A P₂ to P₁"
+        },
+        {
+          "id": "C",
+          "text": "0.27 A P₁ to P₂"
+        },
+        {
+          "id": "D",
+          "text": "0.27 A P₂ to P₁"
+        }
+      ],
+      "correctAnswer": "B",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Current Electricity",
+      "topic": "Circuit Analysis",
+      "concept": "Circuit with multiple sources",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "NUMERICAL",
+        "ANALYTICAL"
+      ]
+    },
+    {
+      "questionNumber": 96,
+      "subject": "PHYSICS",
+      "questionText": "A capillary tube (A) is dipped in water. Another identical tube (B) is dipped in a soap-water solution. Which of the following shows the relative nature of the liquid columns in the two tubes",
+      "options": [
+        {
+          "id": "A",
+          "text": "Option (1)"
+        },
+        {
+          "id": "B",
+          "text": "Option (2)"
+        },
+        {
+          "id": "C",
+          "text": "Option (3)"
+        },
+        {
+          "id": "D",
+          "text": "Option (4)"
+        }
+      ],
+      "correctAnswer": "B",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Surface Tension",
+      "topic": "Capillarity",
+      "concept": "Effect of surface tension on capillary rise",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "CONCEPTUAL",
+        "APPLICATION"
+      ]
+    },
+    {
+      "questionNumber": 97,
+      "subject": "PHYSICS",
+      "questionText": "Two coaxial solenoids are made by winding thin insulated wire over a pipe of cross-sectional area A = 10 cm² and length = 20 cm. If one of the solenoids has 300 turns and the other 400 turns, their mutual inductance is (μ₀ = 4π × 10⁻⁷ T mA⁻¹)",
+      "options": [
+        {
+          "id": "A",
+          "text": "4.8π × 10⁻⁷ H"
+        },
+        {
+          "id": "B",
+          "text": "4.8π × 10⁻⁵ H"
+        },
+        {
+          "id": "C",
+          "text": "2.4π × 10⁻⁴ H"
+        },
+        {
+          "id": "D",
+          "text": "2.4π × 10⁻⁵ H"
+        }
+      ],
+      "correctAnswer": "C",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Electromagnetic Induction",
+      "topic": "Mutual Inductance",
+      "concept": "Mutual inductance of solenoids",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "NUMERICAL",
+        "APPLICATION"
+      ]
+    },
+    {
+      "questionNumber": 98,
+      "subject": "PHYSICS",
+      "questionText": "A student measures the focal length of a convex lens by putting an object pin at a distance 'u' from the lens and measuring the distance 'v' of the image pin. The graph between 'u' and 'v' plotted by the student should look like",
+      "options": [
+        {
+          "id": "A",
+          "text": "Graph (1)"
+        },
+        {
+          "id": "B",
+          "text": "Graph (2)"
+        },
+        {
+          "id": "C",
+          "text": "Graph (3)"
+        },
+        {
+          "id": "D",
+          "text": "Graph (4)"
+        }
+      ],
+      "correctAnswer": "B",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Optics",
+      "topic": "Lenses",
+      "concept": "u-v relationship for convex lens",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "GRAPHICAL",
+        "CONCEPTUAL"
+      ]
+    },
+    {
+      "questionNumber": 99,
+      "subject": "PHYSICS",
+      "questionText": "Statement - 1: For a mass M kept at the centre of a cube of side 'a' the flux of gravitational field passing through its sides is 4πGM. Statement - 2: If the direction of a field due to a point source is radial and its dependence on the distance 'r' from the source is given as 1/r², its flux through a closed surface depends only on the strength of the source enclosed by the surface and not on the size or shape of the surface.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Statement-1 is True, Statement-2 is True; Statement-2 is a correct explanation for Statement-1"
+        },
+        {
+          "id": "B",
+          "text": "Statement-1 is True, Statement-2 is True; Statement-2 is not a correct explanation for Statement-1"
+        },
+        {
+          "id": "C",
+          "text": "Statement-1 is True, Statement-2 is False"
+        },
+        {
+          "id": "D",
+          "text": "Statement-1 is False, Statement-2 is True"
+        }
+      ],
+      "correctAnswer": "D",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Gravitation",
+      "topic": "Gravitational Field",
+      "concept": "Gauss law for gravitation",
+      "difficulty": "HARD",
+      "skills": [
+        "CONCEPTUAL",
+        "ANALYTICAL"
+      ]
+    },
+    {
+      "questionNumber": 100,
+      "subject": "PHYSICS",
+      "questionText": "Statement - 1: Energy is released when heavy nuclei undergo fission or light nuclei undergo fusion. Statement - 2: For heavy nuclei, binding energy per nucleon increases with increasing Z while for light nuclei it decreases with increasing Z.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Statement-1 is True, Statement-2 is True; Statement-2 is a correct explanation for Statement-1"
+        },
+        {
+          "id": "B",
+          "text": "Statement-1 is True, Statement-2 is True; Statement-2 is not a correct explanation for Statement-1"
+        },
+        {
+          "id": "C",
+          "text": "Statement-1 is True, Statement-2 is False"
+        },
+        {
+          "id": "D",
+          "text": "Statement-1 is False, Statement-2 is True"
+        }
+      ],
+      "correctAnswer": "C",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Nuclear Physics",
+      "topic": "Nuclear Reactions",
+      "concept": "Binding energy and nuclear reactions",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "CONCEPTUAL",
+        "ANALYTICAL"
+      ]
+    },
+    {
+      "questionNumber": 101,
+      "subject": "PHYSICS",
+      "questionText": "For current entering at A, the electric field at a distance r from A is",
+      "options": [
+        {
+          "id": "A",
+          "text": "Iρ/(2πr²)"
+        },
+        {
+          "id": "B",
+          "text": "Iρ/(2πr²)"
+        },
+        {
+          "id": "C",
+          "text": "Iρ/(4πr²)"
+        },
+        {
+          "id": "D",
+          "text": "Iρ/(8πr²)"
+        }
+      ],
+      "correctAnswer": "B",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Current Electricity",
+      "topic": "Current in Conductors",
+      "concept": "Electric field in conducting material",
+      "difficulty": "HARD",
+      "skills": [
+        "DERIVATION",
+        "ANALYTICAL"
+      ]
+    },
+    {
+      "questionNumber": 102,
+      "subject": "PHYSICS",
+      "questionText": "ΔV measured between B and C is",
+      "options": [
+        {
+          "id": "A",
+          "text": "Iρ/(a+b) - Iρ/a"
+        },
+        {
+          "id": "B",
+          "text": "Iρ/(2π)(1/a - 1/(a+b))"
+        },
+        {
+          "id": "C",
+          "text": "Iρ/(2π)"
+        },
+        {
+          "id": "D",
+          "text": "Iρ/(4π)(1/a - 1/(a+b))"
+        }
+      ],
+      "correctAnswer": "B",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Current Electricity",
+      "topic": "Potential Difference",
+      "concept": "Potential difference in conducting material",
+      "difficulty": "HARD",
+      "skills": [
+        "DERIVATION",
+        "ANALYTICAL"
+      ]
+    },
+    {
+      "questionNumber": 103,
+      "subject": "PHYSICS",
+      "questionText": "If a strong diffraction peak is observed when electrons are incident at an angle 'i' from the normal to the crystal planes with distance 'd' between them (see figure), de Broglie wavelength λ_dB of electrons can be calculated by the relationship (n is an integer)",
+      "options": [
+        {
+          "id": "A",
+          "text": "2d cos i = n λ_dB"
+        },
+        {
+          "id": "B",
+          "text": "2d sin i = n λ_dB"
+        },
+        {
+          "id": "C",
+          "text": "d cos i = n λ_dB"
+        },
+        {
+          "id": "D",
+          "text": "n λ_dB"
+        }
+      ],
+      "correctAnswer": "A",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Modern Physics",
+      "topic": "Wave Nature of Matter",
+      "concept": "Electron diffraction",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "CONCEPTUAL",
+        "DERIVATION"
+      ]
+    },
+    {
+      "questionNumber": 104,
+      "subject": "PHYSICS",
+      "questionText": "Electrons accelerated by potential V are diffracted from a crystal. If d = 1 Å and i = 30°, V should be about (h = 6.6 × 10⁻³⁴ Js, m_e = 9.1 × 10⁻³¹ kg, e = 1.6 × 10⁻¹⁹ C)",
+      "options": [
+        {
+          "id": "A",
+          "text": "50 V"
+        },
+        {
+          "id": "B",
+          "text": "500 V"
+        },
+        {
+          "id": "C",
+          "text": "1000 V"
+        },
+        {
+          "id": "D",
+          "text": "2000 V"
+        }
+      ],
+      "correctAnswer": "A",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Modern Physics",
+      "topic": "de Broglie Wavelength",
+      "concept": "Electron diffraction calculation",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "NUMERICAL",
+        "APPLICATION"
+      ]
+    },
+    {
+      "questionNumber": 105,
+      "subject": "PHYSICS",
+      "questionText": "In an experiment, electrons are made to pass through a narrow slit of width 'd' comparable to their de Broglie wavelength. They are detected on a screen at a distance 'D' from the slit (see figure). Which of the following graphs can be expected to represent the number of electrons 'N' detected as a function of the detector position 'y' (y=0 corresponds to the middle of the slit)?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Graph (1)"
+        },
+        {
+          "id": "B",
+          "text": "Graph (2)"
+        },
+        {
+          "id": "C",
+          "text": "Graph (3)"
+        },
+        {
+          "id": "D",
+          "text": "Graph (4)"
+        }
+      ],
+      "correctAnswer": "C",
+      "questionType": "MCQ_SINGLE",
+      "chapter": "Modern Physics",
+      "topic": "Wave Nature of Matter",
+      "concept": "Single slit diffraction of electrons",
+      "difficulty": "MEDIUM",
+      "skills": [
+        "GRAPHICAL",
+        "CONCEPTUAL"
+      ]
+    }
+  ],
+  "extractedAt": "2026-01-28T11:09:49.237Z"
+}
