@@ -1,10 +1,10 @@
-# JEE Pulse by ZenithSchool.ai
+# JEE Weightage by ZenithSchool.ai
 
 AI-powered JEE trend intelligence and diagnostic testing platform. Get personalized insights and study recommendations to ace your JEE preparation.
 
 ## Features
 
-- **JEE Pulse Intelligence**: AI-driven analysis of 5+ years of JEE Main & Advanced papers
+- **JEE Weightage Intelligence**: AI-driven analysis of 5+ years of JEE Main & Advanced papers
 - **Rising/Falling Concepts**: Track which topics are trending up or down
 - **Chapter Weightage**: Understand the distribution of questions across subjects
 - **High ROI Topics**: Identify concepts with the best return on investment
@@ -34,7 +34,7 @@ AI-powered JEE trend intelligence and diagnostic testing platform. Get personali
 1. Clone the repository:
    ```bash
    git clone <repo-url>
-   cd jee-pulse
+   cd jee-weightage
    ```
 
 2. Install dependencies:
