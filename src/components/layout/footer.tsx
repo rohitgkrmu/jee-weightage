@@ -2,8 +2,8 @@ import Link from "next/link";
 
 const footerLinks = {
   product: [
-    { href: "/jee-intelligence", label: "JEE Pulse" },
-    { href: "/diagnostic", label: "Take Diagnostic" },
+    { href: "/jee-intelligence", label: "Weightage Analysis" },
+    { href: "/diagnostic", label: "Free Diagnostic" },
   ],
   legal: [
     { href: "/privacy", label: "Privacy Policy" },
@@ -24,14 +24,14 @@ export function Footer() {
           <div className="col-span-2 md:col-span-1">
             <div className="flex items-center gap-2 mb-4">
               <div className="flex h-9 w-9 items-center justify-center rounded-lg bg-gradient-to-br from-[var(--zenith-primary)] to-[var(--zenith-cyan)]">
-                <span className="text-lg font-bold text-white">JP</span>
+                <span className="text-lg font-bold text-white">JW</span>
               </div>
               <span className="text-lg font-bold text-[var(--text-primary)]">
-                JEE<span className="text-[var(--zenith-cyan)]">Pulse</span>
+                JEE<span className="text-[var(--zenith-cyan)]">Weightage</span>
               </span>
             </div>
             <p className="text-sm text-[var(--text-muted)] mb-4 max-w-xs">
-              AI-powered JEE preparation with personalized learning paths and real-time analytics.
+              Free JEE Main chapter wise weightage analysis. Know high-weightage topics and ace your preparation.
             </p>
             <a
               href="https://zenithschool.ai"

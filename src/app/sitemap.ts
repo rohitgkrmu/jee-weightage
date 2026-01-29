@@ -1,6 +1,6 @@
 import { MetadataRoute } from "next";
 
-const BASE_URL = process.env.NEXT_PUBLIC_BASE_URL || "https://jeepulse.ai";
+const BASE_URL = process.env.NEXT_PUBLIC_BASE_URL || "https://jeeweightage.in";
 
 export default function sitemap(): MetadataRoute.Sitemap {
   const currentDate = new Date().toISOString();

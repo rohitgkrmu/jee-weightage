@@ -7,8 +7,8 @@ import { Button } from "@/components/ui/button";
 import { Menu, X, BarChart2, FileText, Sparkles } from "lucide-react";
 
 const navLinks = [
-  { href: "/jee-intelligence", label: "JEE Pulse", icon: BarChart2 },
-  { href: "/diagnostic", label: "Take Diagnostic", icon: Sparkles },
+  { href: "/jee-intelligence", label: "Weightage Analysis", icon: BarChart2 },
+  { href: "/diagnostic", label: "Free Diagnostic", icon: Sparkles },
 ];
 
 export function Header() {
@@ -21,17 +21,17 @@ export function Header() {
         <div className="flex items-center gap-2">
           <Link href="/" className="flex items-center gap-2">
             <div className="flex h-9 w-9 items-center justify-center rounded-lg bg-gradient-to-br from-[var(--zenith-primary)] to-[var(--zenith-cyan)]">
-              <span className="text-lg font-bold text-white">JP</span>
+              <span className="text-lg font-bold text-white">JW</span>
             </div>
             <div className="flex flex-col">
               <span className="text-lg font-bold text-[var(--text-primary)]">
-                JEE<span className="text-[var(--zenith-cyan)]">Pulse</span>
-              </span>
-              <span className="text-[10px] text-[var(--text-muted)] -mt-1">
-                by <a href="https://zenithschool.ai" target="_blank" rel="noopener noreferrer" className="hover:text-[var(--zenith-cyan)] transition-colors" onClick={(e) => e.stopPropagation()}>ZenithSchool.ai</a>
+                JEE<span className="text-[var(--zenith-cyan)]">Weightage</span>
               </span>
             </div>
           </Link>
+          <span className="text-[10px] text-[var(--text-muted)] self-end mb-1">
+            by <a href="https://zenithschool.ai" target="_blank" rel="noopener noreferrer" className="hover:text-[var(--zenith-cyan)] transition-colors">ZenithSchool.ai</a>
+          </span>
         </div>
 
         {/* Desktop Navigation */}

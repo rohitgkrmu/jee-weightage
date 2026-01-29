@@ -13,7 +13,7 @@ const geistMono = Geist_Mono({
   subsets: ["latin"],
 });
 
-const BASE_URL = process.env.NEXT_PUBLIC_BASE_URL || "https://jeepulse.ai";
+const BASE_URL = process.env.NEXT_PUBLIC_BASE_URL || "https://jeeweightage.in";
 
 export const viewport: Viewport = {
   width: "device-width",
@@ -29,7 +29,7 @@ export const metadata: Metadata = {
   metadataBase: new URL(BASE_URL),
   title: {
     default: "JEE Main 2025 Chapter Wise Weightage | Free Analysis & Mock Test",
-    template: "%s | JEE Pulse by ZenithSchool.ai",
+    template: "%s | JEE Weightage by ZenithSchool.ai",
   },
   description:
     "Free JEE Main 2025 chapter wise weightage for Physics, Chemistry & Maths. AI analysis of 500+ questions from 5 years. High weightage topics, rising concepts & free diagnostic test. Crack IIT JEE with data-driven preparation.",
@@ -65,7 +65,7 @@ export const metadata: Metadata = {
   publisher: "ZenithSchool.ai",
   category: "Education",
   classification: "Educational Tool",
-  applicationName: "JEE Pulse",
+  applicationName: "JEE Weightage",
   generator: "Next.js",
   referrer: "origin-when-cross-origin",
   formatDetection: {
@@ -83,7 +83,7 @@ export const metadata: Metadata = {
     type: "website",
     locale: "en_IN",
     url: BASE_URL,
-    siteName: "JEE Pulse",
+    siteName: "JEE Weightage",
     title: "JEE Main 2025 Chapter Wise Weightage - Physics, Chemistry, Maths | Free",
     description:
       "Free JEE Main chapter wise weightage analysis. Know high weightage topics in Physics, Chemistry & Maths. 500+ questions analyzed. Take free diagnostic test & crack IIT JEE.",
@@ -92,7 +92,7 @@ export const metadata: Metadata = {
         url: "/og-image.png",
         width: 1200,
         height: 630,
-        alt: "JEE Main 2025 Chapter Wise Weightage - Free Analysis by JEE Pulse",
+        alt: "JEE Main 2025 Chapter Wise Weightage - Free Analysis by JEE Weightage",
         type: "image/png",
       },
     ],
@@ -139,7 +139,7 @@ export const metadata: Metadata = {
   appleWebApp: {
     capable: true,
     statusBarStyle: "black-translucent",
-    title: "JEE Pulse",
+    title: "JEE Weightage",
   },
   other: {
     "mobile-web-app-capable": "yes",

@@ -1,7 +1,7 @@
 {
-  "name": "JEE Pulse - AI-Powered JEE Intelligence",
-  "short_name": "JEE Pulse",
-  "description": "AI-powered JEE trend intelligence and diagnostic testing. Analyze JEE Main & Advanced patterns and get personalized study recommendations.",
+  "name": "JEE Weightage - Chapter Wise Weightage Analysis",
+  "short_name": "JEE Weightage",
+  "description": "Free JEE Main chapter wise weightage for Physics, Chemistry & Maths. High weightage topics, rising concepts & free diagnostic test.",
   "start_url": "/",
   "display": "standalone",
   "background_color": "#020617",

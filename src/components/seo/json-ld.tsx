@@ -1,6 +1,6 @@
 import Script from "next/script";
 
-const BASE_URL = process.env.NEXT_PUBLIC_BASE_URL || "https://jeepulse.ai";
+const BASE_URL = process.env.NEXT_PUBLIC_BASE_URL || "https://jeeweightage.in";
 
 interface JsonLdProps {
   type?: "organization" | "website" | "faq" | "educationalOrganization";
@@ -27,7 +27,7 @@ export function JsonLd({ type = "website" }: JsonLdProps) {
   const websiteSchema = {
     "@context": "https://schema.org",
     "@type": "WebSite",
-    name: "JEE Pulse - JEE Main Chapter Wise Weightage",
+    name: "JEE Weightage - JEE Main Chapter Wise Weightage",
     alternateName: "JEE Main 2025 Weightage Analysis",
     url: BASE_URL,
     description:
@@ -77,7 +77,7 @@ export function JsonLd({ type = "website" }: JsonLdProps) {
         name: "What is JEE Main chapter wise weightage?",
         acceptedAnswer: {
           "@type": "Answer",
-          text: "JEE Main chapter wise weightage shows how many questions come from each chapter in Physics, Chemistry, and Maths. High weightage chapters include Calculus (12-15 questions), Organic Chemistry (10-12 questions), and Modern Physics (8-10 questions). JEE Pulse analyzes 500+ questions from 5 years of JEE papers to show exact weightage patterns.",
+          text: "JEE Main chapter wise weightage shows how many questions come from each chapter in Physics, Chemistry, and Maths. High weightage chapters include Calculus (12-15 questions), Organic Chemistry (10-12 questions), and Modern Physics (8-10 questions). JEE Weightage analyzes 500+ questions from 5 years of JEE papers to show exact weightage patterns.",
         },
       },
       {
@@ -90,7 +90,7 @@ export function JsonLd({ type = "website" }: JsonLdProps) {
       },
       {
         "@type": "Question",
-        name: "Is the JEE mock test on JEE Pulse free?",
+        name: "Is the JEE mock test on JEE Weightage free?",
         acceptedAnswer: {
           "@type": "Answer",
           text: "Yes, the JEE diagnostic test is 100% free. It includes 12 questions covering high weightage topics from Physics, Chemistry, and Maths. You get instant AI-powered analysis, subject-wise score breakdown, and personalized study recommendations without any payment or signup.",
@@ -101,7 +101,7 @@ export function JsonLd({ type = "website" }: JsonLdProps) {
         name: "How to use JEE Main chapter wise weightage for preparation?",
         acceptedAnswer: {
           "@type": "Answer",
-          text: "Start with high weightage chapters that appear frequently - Calculus and Algebra cover 65-70% of Maths, Organic Chemistry dominates Chemistry section. Focus on NCERT first, then practice previous year questions. Use JEE Pulse to identify rising concepts that are appearing more frequently in recent exams.",
+          text: "Start with high weightage chapters that appear frequently - Calculus and Algebra cover 65-70% of Maths, Organic Chemistry dominates Chemistry section. Focus on NCERT first, then practice previous year questions. Use JEE Weightage to identify rising concepts that are appearing more frequently in recent exams.",
         },
       },
     ],

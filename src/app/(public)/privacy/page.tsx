@@ -3,7 +3,7 @@ import { Metadata } from "next";
 export const metadata: Metadata = {
   title: "Privacy Policy",
   description:
-    "Privacy Policy for JEE Pulse by ZenithSchool.ai. Learn how we collect, use, and protect your data on our JEE preparation platform.",
+    "Privacy Policy for JEE Weightage by ZenithSchool.ai. Learn how we collect, use, and protect your data on our JEE preparation platform.",
   alternates: {
     canonical: "/privacy",
   },
