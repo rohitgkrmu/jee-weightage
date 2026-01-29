@@ -44,3 +44,5 @@ next-env.d.ts
 
 # Exam papers (large PDFs)
 /exam papers/
+.netlify/
+data/
