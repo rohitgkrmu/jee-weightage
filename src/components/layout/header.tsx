@@ -18,17 +18,21 @@ export function Header() {
     <header className="sticky top-0 z-40 w-full border-b border-[var(--border-dark)] bg-[var(--background-dark)]/80 backdrop-blur-lg">
       <div className="container mx-auto flex h-16 items-center justify-between px-4">
         {/* Logo */}
-        <Link href="/" className="flex items-center gap-2">
-          <div className="flex h-9 w-9 items-center justify-center rounded-lg bg-gradient-to-br from-[var(--zenith-primary)] to-[var(--zenith-cyan)]">
-            <span className="text-lg font-bold text-white">JP</span>
-          </div>
-          <div className="flex flex-col">
-            <span className="text-lg font-bold text-[var(--text-primary)]">
-              JEE<span className="text-[var(--zenith-cyan)]">Pulse</span>
-            </span>
-            <span className="text-[10px] text-[var(--text-muted)] -mt-1">by ZenithSchool.ai</span>
-          </div>
-        </Link>
+        <div className="flex items-center gap-2">
+          <Link href="/" className="flex items-center gap-2">
+            <div className="flex h-9 w-9 items-center justify-center rounded-lg bg-gradient-to-br from-[var(--zenith-primary)] to-[var(--zenith-cyan)]">
+              <span className="text-lg font-bold text-white">JP</span>
+            </div>
+            <div className="flex flex-col">
+              <span className="text-lg font-bold text-[var(--text-primary)]">
+                JEE<span className="text-[var(--zenith-cyan)]">Pulse</span>
+              </span>
+              <span className="text-[10px] text-[var(--text-muted)] -mt-1">
+                by <a href="https://zenithschool.ai" target="_blank" rel="noopener noreferrer" className="hover:text-[var(--zenith-cyan)] transition-colors" onClick={(e) => e.stopPropagation()}>ZenithSchool.ai</a>
+              </span>
+            </div>
+          </Link>
+        </div>
 
         {/* Desktop Navigation */}
         <nav className="hidden md:flex items-center gap-1">

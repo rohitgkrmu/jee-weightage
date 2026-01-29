@@ -33,6 +33,14 @@ export function Footer() {
             <p className="text-sm text-[var(--text-muted)] mb-4 max-w-xs">
               AI-powered JEE preparation with personalized learning paths and real-time analytics.
             </p>
+            <a
+              href="https://zenithschool.ai"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="inline-flex items-center gap-1 text-sm text-[var(--zenith-cyan)] hover:underline"
+            >
+              Powered by ZenithSchool.ai →
+            </a>
           </div>
 
           {/* Product Links */}
@@ -92,7 +100,7 @@ export function Footer() {
         {/* Bottom Bar */}
         <div className="mt-12 pt-8 border-t border-[var(--border-dark)] flex flex-col md:flex-row items-center justify-between gap-4">
           <p className="text-sm text-[var(--text-muted)]">
-            &copy; {new Date().getFullYear()} ZenithSchool.ai. All rights reserved.
+            &copy; {new Date().getFullYear()} <a href="https://zenithschool.ai" target="_blank" rel="noopener noreferrer" className="hover:text-[var(--zenith-cyan)] transition-colors">ZenithSchool.ai</a>. All rights reserved.
           </p>
           <p className="text-sm text-[var(--text-muted)]">
             Made with love for JEE aspirants across India
