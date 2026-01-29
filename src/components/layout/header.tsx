@@ -4,10 +4,11 @@ import * as React from "react";
 import Link from "next/link";
 import { cn } from "@/lib/utils";
 import { Button } from "@/components/ui/button";
-import { Menu, X, BarChart2, FileText, Sparkles } from "lucide-react";
+import { Menu, X, BarChart2, FileText, Sparkles, BookOpen } from "lucide-react";
 
 const navLinks = [
   { href: "/jee-intelligence", label: "Weightage Analysis", icon: BarChart2 },
+  { href: "/pyq", label: "PYQ Browser", icon: BookOpen },
   { href: "/diagnostic", label: "Free Diagnostic", icon: Sparkles },
 ];
 
